@@ -95,21 +95,20 @@ def train_model(model, train_loader, optimizer, criterion, num_epochs=3):
 
 ## OUTPUT
 ### Training Loss per Epoch
+![Screenshot 2025-03-24 121101](https://github.com/user-attachments/assets/32201380-dce6-40fe-a038-1184b00c7342)
 
-Include the Training Loss per epoch
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![Screenshot 2025-03-24 121143](https://github.com/user-attachments/assets/6def92db-ee11-4804-9b7b-600cc5817802)
 
 ### Classification Report
 
-Include Classification Report here
-
+![Screenshot 2025-03-24 121206](https://github.com/user-attachments/assets/7764e728-4be8-4c2e-9391-f906687c2459)
 
 ### New Sample Data Prediction
 
-Include your sample input and output 
+![Screenshot 2025-03-24 121216](https://github.com/user-attachments/assets/02e8720a-41b2-4e30-8361-b8484bdf0def)
 
 ## RESULT
-Include your result here.
+The CNN model was successfully trained on the MNIST dataset for 3 epochs, achieving a final loss of 0.1632, demonstrating effective handwritten digit classification.
